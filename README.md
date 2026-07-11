@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Inventory & Order Management System
+=======
+# inventory-management
+>>>>>>> b2af4f3dc6ee8715dc84880a48e070f2f9be5699
 
 A simple backend project built with **Java, Spring Boot, and REST APIs** to manage
 product inventory and customer orders. Built using Spring JDBC (JdbcTemplate) to
